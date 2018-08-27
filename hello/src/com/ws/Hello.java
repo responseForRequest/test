@@ -4,13 +4,6 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println(111);
-		System.out.println(222);
-		System.out.println(444);
-		System.out.println(333);
-		System.out.println("haha");
-		System.out.println("哈哈");
-		System.out.println("or然后我");
-		System.out.println("哈哈oweerowho o");
 	}
 
 }
