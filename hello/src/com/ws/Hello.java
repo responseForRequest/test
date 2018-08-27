@@ -9,6 +9,7 @@ public class Hello {
 		System.out.println(333);
 		System.out.println("haha");
 		System.out.println("哈哈");
+		System.out.println("or然后我");
 	}
 
 }
