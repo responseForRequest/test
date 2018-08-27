@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("haha");
 		System.out.println("哈哈");
 		System.out.println("or然后我");
+		System.out.println("哈哈oweerowho o");
 	}
 
 }
